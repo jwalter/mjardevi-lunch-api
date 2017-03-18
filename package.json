@@ -1,0 +1,14 @@
+{
+    "name": "mjardevi-lunch-api",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "cheerio": "0.22.0",
+        "request": "2.81.0"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "alias": "mjardevi-lunch-api.now.sh"
+}
